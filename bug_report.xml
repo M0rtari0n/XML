@@ -1,1 +1,16 @@
-
+<bug_report>
+  <Summary>Смещённая кнопка 'войти', в окне авторизации</Summary>
+  <Project>Онлайн магазин abc</Project>
+  <Component>Кнопка 'войти'</Component>
+  <Version>1.12.13</Version>
+  <Severity>Major</Severity>
+  <Priority>Medium</Priority>
+  <Status>Open</Status>
+  <Author>Петяшев Андрей</Author>
+  <Assigned_to>Владимир Лещенко</Assigned_to>
+    <Description>
+      1.Зайти на сайт abc.ru
+      2.Перейти в окно авторизации нажав кнопку 'войти'
+    </Description>
+  <Attachment>Screenshot</Attachment>
+</bug_report>
