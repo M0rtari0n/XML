@@ -1,5 +1,5 @@
 <bug_report>
-  <Summary>Смещённая кнопка 'войти', в окне авторизации</Summary>
+  <Summary>Смещённая кнопка 'войти' в окне авторизации</Summary>
   <Project>Онлайн магазин abc</Project>
   <Component>Кнопка 'войти'</Component>
   <Version>1.12.13</Version>
