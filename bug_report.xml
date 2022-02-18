@@ -1,4 +1,4 @@
-<bug_report>
+<Bug_report>
   <Summary>Смещённая кнопка 'войти' в окне авторизации</Summary>
   <Project>Онлайн магазин abc</Project>
   <Component>Кнопка 'войти'</Component>
@@ -13,4 +13,4 @@
       2.Перейти в окно авторизации нажав кнопку 'войти'
     </Description>
   <Attachment>Screenshot</Attachment>
-</bug_report>
+</Bug_report>
